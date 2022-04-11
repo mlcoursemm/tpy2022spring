@@ -7,7 +7,7 @@
 К.ф.-м.н. Иванов И.Е.
 
 ## Полезные ссылки
-[Распределение задач и оценки](TBD)
+[Распределение задач и оценки](https://docs.google.com/spreadsheets/d/1CTIxRnAYuEg0qtDVhkQ3teILn_ev8cZ7ntDqedh1pcg/edit?usp=sharing)
 
 [Telegram канал](https://t.me/+wCiuba9nTyBmYzIy)
 
