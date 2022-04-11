@@ -8,8 +8,11 @@
 
 ## Полезные ссылки
 [Распределение задач и оценки](TBD)
+
 [Telegram канал](https://t.me/+wCiuba9nTyBmYzIy)
+
 [Telegram чат](TBD)
+
 [Telegram бот для сдачи задач](http://t.me/tpy2022bot) @tpy2022bot
 
 ## Домашние задания
