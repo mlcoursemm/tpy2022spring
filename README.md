@@ -11,7 +11,7 @@
 
 [Telegram канал](https://t.me/+wCiuba9nTyBmYzIy)
 
-[Telegram группа для обсуждений](https://t.me/+i1FPEYUGuHNhZjAy)
+[Telegram группа для обсуждений](https://t.me/+-9VWHNuL6Ms3MDc6)
 
 [Telegram бот для сдачи задач](http://t.me/tpy2022bot) @tpy2022bot
 
